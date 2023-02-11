@@ -1,0 +1,2 @@
+dbread.csv("C:\\Users\\91889\\OneDrive\\Desktop\\diabetesss.csv")
+barplot(db$BloodPressure,db$Insulin,db$Glucose)
